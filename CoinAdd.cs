@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Coin : MonoBehaviour
+public class CoinAdd : MonoBehaviour
 {
 	[HideInInspector]
 	public int coin;
